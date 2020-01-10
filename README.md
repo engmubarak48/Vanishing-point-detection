@@ -1,1 +1,3 @@
 # Vanishing-point-detection
+
+Vanishing Points is a point where each set of parallel lines in the image intersect or meet. In geometric properties of projection, we know that, points project to points and lines project to lines in an image plane. Vanishing point detection and estimation is a very interesting research in computer vision, because it is helpful for object detection, 3D reconstruction and camera calibration. The vanishing point detection systems can also be used in road images to help steer a robot. Edge detection and Hough Transform Algorithms were implemented to detect the vanishing points.
